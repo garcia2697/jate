@@ -40,4 +40,4 @@ Luis Garcia
 GitHub: https://github.com/garcia2697
 
 ### Screenshot
-[!image](screenshot.PNG)
+![Image of app](screenshot.PNG)
